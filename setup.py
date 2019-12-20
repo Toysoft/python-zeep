@@ -64,7 +64,7 @@ setup(
     long_description=long_description,
     author="Michael van Tellingen",
     author_email="michaelvantellingen@gmail.com",
-    url='http://docs.python-zeep.org',
+    url='https://github.com/jjehl/python-zeep',
 
     install_requires=install_requires,
     tests_require=tests_require,
